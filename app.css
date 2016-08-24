@@ -5,3 +5,14 @@ body{
         linear-gradient(rgba(0,100,200,.5) 50%, transparent 50%);
     background-size:50px 50px;
 }
+
+header {
+    background-color:white;
+    height: 300 px;
+}
+
+main {
+    background-color:white;
+    width: 800px;
+    height: 600px;
+}
