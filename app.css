@@ -9,10 +9,12 @@ body{
 header {
     background-color:white;
     height: 300 px;
+    width: 100%;
 }
 
 main {
     background-color:white;
     width: 800px;
     height: 600px;
+    margin: auto;
 }
