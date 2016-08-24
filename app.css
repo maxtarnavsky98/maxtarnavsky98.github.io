@@ -6,10 +6,10 @@ body{
     background-size:50px 50px;
 }
 
-header {
+.page-header {
     background-color:white;
     height: 300 px;
-    width: 1600px;
+    width: 100%;
 }
 
 main {
