@@ -6,10 +6,12 @@ body{
     background-size:50px 50px;
 }
 
-.page-header {
-    background-color:white;
-    height: 300 px;
-    width: 100%;
+header.page-header {
+    background-color:#f8f8f8;
+    min-height: 75 px;
+    padding:75px;
+    margin:auto;
+    
 }
 
 main {
