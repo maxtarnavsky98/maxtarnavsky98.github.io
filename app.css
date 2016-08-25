@@ -9,8 +9,7 @@ body{
 header.page-header {
     background-color:#f8f8f8;
     min-height: 75 px;
-    padding:75px;
-    margin:auto;
+    width: auto;
     
 }
 
